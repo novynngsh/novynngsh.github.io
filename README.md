@@ -1,2 +1,0 @@
-# noviyn.github.io
-Portofolio
