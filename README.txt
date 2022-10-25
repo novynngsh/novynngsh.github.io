@@ -1,9 +1,9 @@
 
 TITLE: 
-Profile - 100% Fully Responsive Free HTML5 Bootstrap Template
+Portofolio - Novi Yuningsih
 
 AUTHOR:
-DESIGNED & DEVELOPED by FreeHTML5.co
+DESIGNED by FreeHTML5.co & DEVELOPED by Novi Yuningsih
 
 Website: http://freehtml5.co/
 Twitter: http://twitter.com/fh5co
